@@ -30,7 +30,7 @@ No installation required! Simply visit the hosted link, and the game will load i
 3. Try to score 10 points before the AI does.
 
 ## **Play Now**
-[Insert the link to the hosted game here]
+[https://imcoder44.github.io/Pong-Game]
 
 ## **Contribute**
 Feel free to fork this repository, contribute to the project, or report any issues. Contributions and improvements are always welcome!
